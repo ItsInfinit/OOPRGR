@@ -107,8 +107,8 @@
                     "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
                     "ProductCode" = "8:.NETFramework,Version=v4.7.2"
                     }
-                }
-            }
+        }
+    }
         }
     }
     "Deployable"
